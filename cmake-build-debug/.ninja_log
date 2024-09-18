@@ -1,0 +1,7 @@
+# ninja log v6
+5	78	7483634704016440	CMakeFiles/WorkWithFile.dir/main.c.obj	b53bec11886d7fbe
+108	232	7483633126807714	WorkWithFile.exe	25876a6513060608
+10	102	7483634318734964	CMakeFiles/WorkWithFile.dir/create-file.c.obj	9c070e7ba05ab538
+2	229	7483638677403724	build.ninja	2e58ae7dbb673c29
+2	92	7483638677674984	CMakeFiles/WorkWithFile.dir/main.c.obj	b53bec11886d7fbe
+92	218	7483638678575415	WorkWithFile.exe	25876a6513060608
