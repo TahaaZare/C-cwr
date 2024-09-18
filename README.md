@@ -1,1 +1,1 @@
-# create write to txt file in C 
+# create & write to txt file in C 
